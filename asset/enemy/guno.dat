@@ -1,0 +1,4 @@
+speed=25
+health=25
+delay=2
+sprite=asset\enemy\guno.png

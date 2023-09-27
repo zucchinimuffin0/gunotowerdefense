@@ -1,0 +1,55 @@
+;Do not mess up the order of the list
+
+[lvl 0]
+"guno"=5
+"grummuce"=0
+
+[lvl 1]
+"guno"=10
+"grummuce"=0
+"groggis"=0
+
+[lvl 2]
+"guno"=10
+"grummuce"=1
+"groggis"=0
+
+[lvl 3]
+"guno"=10
+"grummuce"=5
+"groggis"=0
+
+[lvl 4]
+"guno"=15
+"grummuce"=10
+"groggis"=0
+
+[lvl 5]
+"guno"=20
+"grummuce"=20
+"groggis"=0
+
+[lvl 6]
+"guno"=20
+"grummuce"=20
+"groggis"=1
+
+[lvl 7]
+"guno"=20
+"grummuce"=20
+"groggis"=5
+
+[lvl 8]
+"guno"=30
+"grummuce"=30
+"groggis"=10
+
+[lvl 9]
+"guno"=45
+"grummuce"=45
+"groggis"=10
+
+[lvl 10]
+"guno"=15
+"grummuce"=30
+"groggis"=40
